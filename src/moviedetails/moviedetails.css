@@ -1,0 +1,17 @@
+.conatiner
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.conatiner img
+{
+    width: 600px;
+    height: 400px;
+}
+
+.conatiner h1
+{
+    text-align: left;
+}
